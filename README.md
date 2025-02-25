@@ -63,7 +63,7 @@ This project demonstrates an end-to-end machine learning pipeline, from data pre
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Jupyter Notebook or Python script to execute the pipeline.
+3. Run the Jupyter Notebook.
 
 ## Future Enhancements
 - Experiment with other models like XGBoost and Neural Networks.
